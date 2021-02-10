@@ -20,21 +20,4 @@ paint_colors_cost = {
    'blue': 75,
    'green': 23
 }
-
-
 print('Cost of purchasing', paint_Color, 'paint: $' + str(paint_colors_cost[paint_Color]))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
